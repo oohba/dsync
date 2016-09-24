@@ -1,0 +1,2 @@
+# dsync
+sync only delta
